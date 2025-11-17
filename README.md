@@ -42,11 +42,17 @@ Java (JDK 17/21)
 VS Code / IntelliJ / Terminal
 
 📂 Project Structure
+
 library/
+
  ├── Book.java
+ 
  ├── User.java
+ 
  ├── Library.java
+ 
  └── Main.java
+
 
 ▶️ How to Run
 
